@@ -1,3 +1,9 @@
+# React info site 
+Followed the tutorial "Learn React for Free" by Bob Ziroll
+
+![Screen Shot 2021-12-15 at 17 37 49](https://user-images.githubusercontent.com/76512208/146153946-905f66cc-af54-489b-924e-2c5209206413.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
