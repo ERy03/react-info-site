@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-info-site/static/css/main.57b198a1.chunk.css",
+    "main.js": "/react-info-site/static/js/main.e0639395.chunk.js",
+    "main.js.map": "/react-info-site/static/js/main.e0639395.chunk.js.map",
+    "runtime-main.js": "/react-info-site/static/js/runtime-main.f4ae2562.js",
+    "runtime-main.js.map": "/react-info-site/static/js/runtime-main.f4ae2562.js.map",
+    "static/js/2.8a4d0e5c.chunk.js": "/react-info-site/static/js/2.8a4d0e5c.chunk.js",
+    "static/js/2.8a4d0e5c.chunk.js.map": "/react-info-site/static/js/2.8a4d0e5c.chunk.js.map",
+    "index.html": "/react-info-site/index.html",
+    "static/css/main.57b198a1.chunk.css.map": "/react-info-site/static/css/main.57b198a1.chunk.css.map",
+    "static/js/2.8a4d0e5c.chunk.js.LICENSE.txt": "/react-info-site/static/js/2.8a4d0e5c.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-info-site/static/media/react-half.c72a2c0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ae2562.js",
+    "static/js/2.8a4d0e5c.chunk.js",
+    "static/css/main.57b198a1.chunk.css",
+    "static/js/main.e0639395.chunk.js"
+  ]
+}
